@@ -1,0 +1,9 @@
+* {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+}
+
+.unordered_list .list_item {
+    font-weight: bold;
+}
